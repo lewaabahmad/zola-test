@@ -7,6 +7,8 @@ After running `npm start` visit `localhost:3000` to see the user grid.
 To see the Wedding Website, visit `localhost:3000/wedding_website.html`
 
 Note: Fonts weren't working with my Sketch app so they're probably off size.
+In addition, the engagement photo is different because the one in the design 
+was not provided as an asset.
 
 ## Available Scripts
 
